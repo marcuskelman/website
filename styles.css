@@ -188,7 +188,7 @@ div[class^="column"] {
   background-position: center;
 }
 
-.iconography div[class^="column"] img{
+.iconography div[class^="column"] img, .outline img {
   border: solid 1px #444c6d;
 }
 
