@@ -273,6 +273,12 @@ div[class^="column"] {
   .content {
     margin-top: 18%;
   }
+
+  .splash-video video {
+    width: 100vw;
+    height: auto;
+    object-fit: contain;
+  }
 }
 
 @media(max-width: 700px) {
