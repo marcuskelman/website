@@ -298,6 +298,11 @@ div[class^="column"] {
     margin-left: 0;
   }
 
+  .logo {
+    top: 0rem;
+    max-width: 30px;
+  }
+
   .thumbnails div[class^="column"] {
     padding: 2rem;
     margin-bottom: 1rem;
@@ -307,6 +312,12 @@ div[class^="column"] {
     width: auto;
     height: 100%;
     opacity: 0;
+  }
+
+  .one a {
+    background-image: url(../playerslounge/playerslounge-thumbnail-alt.jpg);
+    -webkit-animation-delay: 0.0s;
+    animation-delay: 0.0s;
   }
 
   .description p {
