@@ -50,6 +50,10 @@ body {
   right: 50px;
 }
 
+#contact {
+  padding-bottom: 24px;
+}
+
 a, a:visited {
   color: #8492a0;
 }
