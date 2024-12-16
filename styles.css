@@ -324,6 +324,10 @@ div[class^="column"] {
     animation-delay: 0.0s;
   }
 
+  .description h1 {
+    font-size: 20px;
+  }
+
   .description p {
     padding-bottom: 0;
   }
